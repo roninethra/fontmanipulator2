@@ -1,0 +1,36 @@
+.heading{
+    font-size: 25px;
+    width: 75%;
+    font-family: 'Style Script', cursive;
+    color: #CCCCFF;
+    box-shadow: 5px 5px 50px #E0B0FF;
+    background-color: #5D3FD3;
+}
+
+.heading2{
+    font-size: 20px;
+    font-family: 'Style Script', cursive;
+    color: #E0B0FF;
+}
+
+#copy-right-footer{
+    position: fixed;
+    bottom: 0;
+    font-family: 'Style Script', cursive;
+    color: #CCCCFF;
+    background-color: #5D3FD3;
+    width: 100%;
+    text-align: center;
+    box-shadow: 5px 5px 50px #E0B0FF;
+}
+
+canvas{
+    border-color: #5D3FD3;
+    box-shadow: 5px 5px 50px #E0B0FF;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+body{
+    background-image: url("images.jpeg");
+}
